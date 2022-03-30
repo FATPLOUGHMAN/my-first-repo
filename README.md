@@ -19,3 +19,13 @@ another line
 - bullet point?
 - ah it works, ok
 
+## new branch time!
+whoops, fixed formatting in new branch
+
+committing another thing here
+
+Testing an [MD link](https://www.reddit.com/user/fatploughman)
+
+Testing a [heading link] (#my-first-repo)
+
+Testing a [some link title text](https://www.reddit.com/user/fatploughman "Reddit Account")
