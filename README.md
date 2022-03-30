@@ -12,3 +12,10 @@ is this a new line?
 
 OK, two spaces?  
 another line
+
+1. some numbering
+2. another numbered line
+
+- bullet point?
+- ah it works, ok
+
